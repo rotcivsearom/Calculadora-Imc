@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.image-logo{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    text-align: center;
+}
+
+
+.height{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    text-align: center; 
+
+}
+
+
+.weight{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    text-align: center; 
+    margin-top: 50px;
+    
+}
+
+
+.height span{
+    font-size: 20px;
+    margin-top: 5px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+
+}
+
+
+.weight span{
+    font-size: 20px;
+    margin-top: 5px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    
+}
+
+
+.height input{
+
+    border-radius: 20px;
+    width: 150px;
+    height: 30px;
+    margin-left: 15px;
+    text-decoration: none;
+    outline: none;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    
+}
+
+
+.weight input{
+    border-radius: 20px;
+    width: 150px;
+    height: 30px;
+    margin-left: 15px;
+    text-decoration: none;
+    outline: none;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    
+}
+
+
+.container {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-family: "Poppins", sans-serif;  
+    height: 370px;
+    background-color: transparent;
+    margin-top: 45px;
+}
+
+
+.Indication{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    margin-top: 50px;
+} 
+
+
+.buttonOne{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    margin-top:50px;
+    
+}
+
+.btn{
+    background: black;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    height: 30px;
+    width: 300px;
+    cursor: pointer;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
